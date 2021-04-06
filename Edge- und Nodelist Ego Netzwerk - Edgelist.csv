@@ -1,0 +1,15 @@
+from,to,weight,relationship,time
+DF,CS,2,2,2
+DF,MF,3,3,1
+DF,FL,3,2,10
+DF,DM,2,2,25
+FL,MF,1,1,5
+FL,DM,1,1,10
+FL,DF,3,2,10
+MF,FL,1,1,5
+MF,DF,3,3,1
+MF,DM,1,2,1
+CS,DF,2,2,2
+DM,DF,2,2,25
+DM,MF,1,1,1
+DM,FL,1,1,10
